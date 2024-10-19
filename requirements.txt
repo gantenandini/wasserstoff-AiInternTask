@@ -1,0 +1,4 @@
+PyPDF2==2.10.3
+pymongo==4.5.0
+spacy==3.5.2
+concurrent.futures;
